@@ -1,7 +1,11 @@
-Hi there, 
 
 
-I am Jennifer Oreffo, I'm a Data Scientist and a Machine Learning Engineer
+##### Hi there, 
+
+
+# I am Jennifer Oreffo.
+
+ I'm a Data Scientist and a Machine Learning Engineer
 - 👋 Hi, I’m @jenniferoreffo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Natural Language Processing.
