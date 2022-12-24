@@ -1,9 +1,10 @@
+![JO] (https://drive.google.com/file/d/1m6w0VK0v35X1FEJoi6GMaxLLqUQfoky6/view?usp=drivesdk)
 
 
-##### Hi there, 
+##### **Hi there,**
 
 
-# I am Jennifer Oreffo.
+# **I am Jennifer Oreffo.**
 
  I'm a Data Scientist and a Machine Learning Engineer
 - 👋 Hi, I’m @jenniferoreffo
