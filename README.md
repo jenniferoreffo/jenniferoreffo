@@ -10,7 +10,7 @@
 - 👀 I’m interested in AI and Machine Learning for businesses.
 - 🌱 I’m currently learning Natural Language Processing.
 - 💞️ I’m looking to collaborate on Machine Learning problems.
-- 📫 How to reach me Open to collaborate jennyoreffo@gmail.com
+- 📫 I am Open to collaborating with you @ jennyoreffo@gmail.com
 
 <!---
 jenniferoreffo/jenniferoreffo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
